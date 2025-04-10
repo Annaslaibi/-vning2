@@ -3,6 +3,8 @@ package se.su.ovning2;
 import java.util.*;
 import java.util.stream.Collectors;
 
+
+
 public final class Data {
   private final List<Recording> recordings = new ArrayList<>();
   private final Random random = new Random();
