@@ -1,7 +1,5 @@
 package se.su.ovning2;
 
-import java.util.Collection;
-import java.util.SortedSet;
 import java.util.*;
 import java.util.stream.Collectors;
 

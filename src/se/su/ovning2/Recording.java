@@ -23,7 +23,6 @@ public class Recording implements Comparable<Recording> {
   public String getTitle() { return title; }
   public String getType() { return type; }
   public int getYear() { return year; }
-
   @Override
   public boolean equals(Object o) {
     if (this == o) return true;

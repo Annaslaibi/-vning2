@@ -1,7 +1,6 @@
 package se.su.ovning2;
 
 import java.util.*;
-
 public class Exercise2 {
   private static final int NUMBER_OF_ARTISTS = 289;
   private static final int NUMBER_OF_GENRES = 15;
